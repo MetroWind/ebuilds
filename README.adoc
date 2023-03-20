@@ -1,3 +1,4 @@
 = Ebuilds for Gentoo
 
-My ebuilds for my Gentoo machine.
+My ebuilds for my Gentoo machine. Enable locally by running `sudo
+eselect repository create metrowind /path/to/local/repo`.
