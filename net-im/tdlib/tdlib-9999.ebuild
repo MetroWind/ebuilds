@@ -15,5 +15,5 @@ KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 RDEPEND="dev-libs/openssl sys-libs/zlib"
-DEPEND="${RDEPEND} dev-util/cmake dev-util/gperf"
+DEPEND="${RDEPEND} dev-build/cmake dev-util/gperf"
 BDEPEND=""
